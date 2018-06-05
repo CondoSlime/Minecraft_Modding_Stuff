@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern": [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key": {
+        "R": {
+            "item": "minecraft:stone"
+        },
+        
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+   
+    "result": {
+        "item": "fm:ruby",
+        "count": 1
+    }
+}
