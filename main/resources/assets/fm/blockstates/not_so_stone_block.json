@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "fm:not_so_stone_block" }
+    }
+}
